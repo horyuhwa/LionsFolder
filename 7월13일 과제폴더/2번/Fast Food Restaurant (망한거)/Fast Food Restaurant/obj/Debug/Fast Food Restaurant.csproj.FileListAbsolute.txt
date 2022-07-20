@@ -1,8 +1,0 @@
-C:\Users\KB\Downloads\Fast Food Restaurant\Fast Food Restaurant\obj\Debug\Fast Food Restaurant.csproj.AssemblyReference.cache
-C:\Users\KB\Downloads\Fast Food Restaurant\Fast Food Restaurant\obj\Debug\Fast Food Restaurant.csproj.SuggestedBindingRedirects.cache
-C:\Users\KB\Downloads\Fast Food Restaurant\Fast Food Restaurant\obj\Debug\Fast_Food_Restaurant.FirstCustomControl1.resources
-C:\Users\KB\Downloads\Fast Food Restaurant\Fast Food Restaurant\obj\Debug\Fast_Food_Restaurant.Form1.resources
-C:\Users\KB\Downloads\Fast Food Restaurant\Fast Food Restaurant\obj\Debug\Fast_Food_Restaurant.MySecondCustumControl1.resources
-C:\Users\KB\Downloads\Fast Food Restaurant\Fast Food Restaurant\obj\Debug\Fast_Food_Restaurant.Properties.Resources.resources
-C:\Users\KB\Downloads\Fast Food Restaurant\Fast Food Restaurant\obj\Debug\Fast Food Restaurant.csproj.GenerateResource.cache
-C:\Users\KB\Downloads\Fast Food Restaurant\Fast Food Restaurant\obj\Debug\Fast Food Restaurant.csproj.CoreCompileInputs.cache
