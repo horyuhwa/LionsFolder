@@ -55,7 +55,6 @@ int main()
 	int a, b, n;
 	printf("숫자를 입력하세요.\n");
 	scanf_s("%d", &a);
-	rewind(stdin);
 	printf("숫자를 입력하세요.\n");
 	scanf_s("%d", &b);
 	//comp(a,b);
